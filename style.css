@@ -13,7 +13,7 @@
     padding: 0px;
   }
   .layar-dalam {
-    width: 1300px;
+    width: 1200px;
     margin: auto;
   }
   .layar-penuh {
@@ -88,13 +88,16 @@
     color: #fff;
     text-align: center;
     position: relative;
-    top: 50%;
+    top: 46%;
   }
   header .intro h3 {
-    font-size: 50px;
+    font-size: 48px;
     margin: 0;
     padding: 0;
-    line-height: 55px;
+    line-height: 48px;
+  }
+  header .intro p {
+    font-size: 18px;
   }
   header .overlay {
     position: absolute;
@@ -102,7 +105,7 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url('img/wisata3.png');
+    background-image: url('img/wisata.png');
     opacity: 100%;
     z-index: -1;
   }
